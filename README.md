@@ -3,6 +3,10 @@
 This is a one-page application built with React that consists of a form used to send data to an API.
 The form includes four fields: input email, input password, long bio, and a submit button.
 
+## Requirements
+
+`Node` and `NPM` installed
+
 ## Instructions for running the application
 - Clone the repository to your local machine
 - Install the dependencies by running `npm install`
